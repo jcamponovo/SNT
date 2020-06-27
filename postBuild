@@ -26,4 +26,3 @@ jupyter trust ./Cartographie/Cartographie_TP_3.ipynb
 jupyter trust ./Cartographie/Cartographie_TP_4.ipynb
 jupyter trust ./Cartographie/Cartographie_TP_5.ipynb
 jupyter trust new.ipynb
-jupyter trust presentation.ipynb
