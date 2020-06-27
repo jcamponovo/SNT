@@ -6,5 +6,5 @@
 
 sauf pour certains notebook où il faut le faire manuellement
 
-### Environnement de programmation en ligne comportant toutes les bibliothèques nécessaires d'une durée de vie de 2h
+### Environnement de programmation en ligne comportant toutes les bibliothèques nécessaires d'une durée de vie de 2h, cliquer sur l'icone Binder ci-dessous
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/SNT/master?urlpath=apps/environnement.ipynb)
